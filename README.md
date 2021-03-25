@@ -1,6 +1,6 @@
 # Classificação de imagens usando CNN com tensorflow
 
-#### Para este projeto foi usada a base de dados ["Chest X-Ray Images (Pneumonia)"](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). Esta base está dividida em imagens de raio-x de pessoas saudáveis e imagens de pessoas com casos de pneumonia. Com isso, este projeto busca realizar a classificação de imagens de raio-x entre casos normais e casos de pneumonia.
+#### Para este projeto foi usada a base de dados ["Chest X-Ray Images (Pneumonia)"](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). Esta base contém imagens de raio-x de pessoas saudáveis e de pessoas com casos de pneumonia. Com isso, este projeto busca realizar a classificação dessas imagens entre casos normais e casos de pneumonia.
 
 #### Requisitos:
 * tensorflow
