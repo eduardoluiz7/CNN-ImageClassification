@@ -21,4 +21,4 @@
   * Uma possível solução se encontra [neste artigo](https://medium.com/analytics-vidhya/how-to-apply-data-augmentation-to-deal-with-unbalanced-datasets-in-20-lines-of-code-ada8521320c9) usando uma combinação de Data Augmentation com RandomOverSampling.
 * Testar um número maior de valores para parâmetros.
 * Testar adição de novas camadas ao modelo.
-* Após melhorias, escrever texto no Medium explicando os passos do projeto.
+* Após melhorias, escrever texto no Medium explicando os passos de desenvolvimento do projeto.
