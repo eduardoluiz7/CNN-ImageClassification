@@ -13,6 +13,9 @@
 * model_inferences/  - Inferência do modelo gerada no formato H5
 * google_images/  - Algumas imagens de raio-x retiradas do google para testar no modelo
 
+#### Como testar?
+ Para testar o modelo com novas imagens, abra o notebook usando o jupyter, execute a primeira célula que contém os imports das bibliotecas necessárias e em seguida execute todas as células a partir da célula onde a inferência do modelo é carregada (no tópico "Salvando inferência do modelo").
+
 #### Passos futuros:
 * Buscar melhoria do modelo a partir do balanceamento da base de imagens (Atualmente: classe pneumonia > classe normal)
   * Uma possível solução se encontra [neste artigo](https://medium.com/analytics-vidhya/how-to-apply-data-augmentation-to-deal-with-unbalanced-datasets-in-20-lines-of-code-ada8521320c9) usando uma combinação de Data Augmentation com RandomOverSampling.
