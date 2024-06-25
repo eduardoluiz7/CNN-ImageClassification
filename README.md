@@ -22,3 +22,4 @@
 * Testar um número maior de valores para parâmetros.
 * Testar adição de novas camadas ao modelo.
 * Após melhorias, escrever texto no Medium explicando os passos de desenvolvimento do projeto.
+  
